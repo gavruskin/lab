@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lab
-permalink: /lab/
+permalink: /bds/
 ---
 
 *We develop mathematics and computer science necessary to answer rigorous questions about molecular data.
