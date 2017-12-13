@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 ---
 
-[Alex Gavryushkin](http://alex.gavruskin.com)
+[Alex Gavryushkin](/alex/)
 
 ### Postdocs
 
