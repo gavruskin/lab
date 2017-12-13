@@ -3,7 +3,7 @@ layout: page
 permalink: /alex/
 ---
 
-[Alex Gavryushkin](http://alex.gavruskin.com)
+### [Alex Gavryushkin](http://alex.gavruskin.com)
 
 |**Address**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	|[Department of Computer Science](http://www.cs.otago.ac.nz/)	|
 |								|[University of Otago](http://www.cs.otago.ac.nz/)		|
