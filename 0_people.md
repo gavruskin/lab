@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lab
-permalink: /bds/
+title: People
+permalink: /people/
 ---
 
 [Alex Gavryushkin](http://alex.gavruskin.com)
