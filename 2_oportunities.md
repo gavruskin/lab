@@ -13,5 +13,3 @@ We are particularly interested in developing algorithm and scalable statistical 
 I would be happy to provide further details about specific projects to interested people.
 We also are happy to accommodate applicants' own scientific interests and welcome informal [email](mailto:alex@gavruskin.com) enquires containing a brief outline of why you want to join our lab.
 The successful applicants will be working in close collaboration with [Genomics Aotearoa](http://www.otago.ac.nz/genetics/news/otago659624.html) in New Zealand and [Max Planck Institute for Evolutionary Biology](http://www.evolbio.mpg.de/2169/en) in Germany.
-
-The lab will have its own corner on the web but for now do watch this space and stay tuned by following me [on Twitter](https://twitter.com/gavruskin).
