@@ -18,7 +18,7 @@ timezone: Pacific/Auckland
 title: Biological Data Science Lab @Otago
 email: alex@gavruskin.com
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/lab" # the subpath of your site, e.g. /blog
 url: "http://lab.gavruskin.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gavruskin
 github_username:  gavruskin
