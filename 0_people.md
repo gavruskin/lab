@@ -6,15 +6,15 @@ permalink: /people/
 
 [Alex Gavryushkin](http://alex.gavruskin.com)
 
-## Postdocs
+### Postdocs
 
 [You](/opportunities/)!
 
-## PhD students
+### PhD students
 
 [You](/opportunities/)!
 
-## Masters students
+### Masters students
 
 - Lena Collienne (Masters Student, University of Greifswald)
 - [You](/opportunities/)!
