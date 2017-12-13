@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lab
-permalink: /
+permalink:
 ---
 
 ## Biological Data Science Lab @Otago
