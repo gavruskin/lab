@@ -1,9 +1,8 @@
 ---
 layout: home
 title: Lab
+permalink: /
 ---
-
-## Biological Data Science Lab @Otago
 
 *We develop mathematics and computer science necessary to answer rigorous questions about molecular data.
 Our ultimate goal is achieved when we observe how molecular biology and data science shape modern mathematics and computer science.*
