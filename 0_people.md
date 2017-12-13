@@ -8,13 +8,13 @@ permalink: /people/
 
 ## Postdocs
 
-You!
+[You](/opportunities/)!
 
 ## PhD students
 
-You!
+[You](/opportunities/)!
 
 ## Masters students
 
 - Lena Collienne (Masters Student, University of Greifswald)
-- You!
+- [You](/opportunities/)!
