@@ -1,9 +1,10 @@
 ---
 layout: page
+title:
 permalink: /alex/
 ---
 
-<h3>Alex Gavryushkin</h3>
+### Alex Gavryushkin
 
 |**Address**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	|[Department of Computer Science](http://www.cs.otago.ac.nz/)	|
 |								|[University of Otago](http://www.cs.otago.ac.nz/)		|
