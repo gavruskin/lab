@@ -1,7 +1,6 @@
 ---
 layout: home
 title: Lab
-permalink: \
 ---
 
 ## Biological Data Science Lab @Otago
