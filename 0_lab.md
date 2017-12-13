@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Lab
-permalink: //
+permalink: /
 ---
 
 *We develop mathematics and computer science necessary to answer rigorous questions about molecular data.
