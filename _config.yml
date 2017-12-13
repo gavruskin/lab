@@ -28,9 +28,7 @@ github_username:  gavruskin
 # Build settings
 markdown: kramdown
 theme: minima
-gems:
+plugins:
   - jekyll-feed
 exclude:
-  - Gemfile
-  - Gemfile.lock
   - talks/css/theme/README.md
