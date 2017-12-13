@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/gavruskin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://alex.gavruskin.com
+  * I am gavruskin (https://keybase.io/gavruskin) on keybase.
+  * I have a public key with fingerprint F8F4 144B 1E94 07E6 A5BD  79C3 3253 9E4A F6FE 07D3
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101b4ee37973437511b51f45d68d2348f6eba92d86e9c40b8fb7317daf7807025c30a",
+            "fingerprint": "f8f4144b1e9407e6a5bd79c332539e4af6fe07d3",
+            "host": "keybase.io",
+            "key_id": "32539e4af6fe07d3",
+            "kid": "0101b4ee37973437511b51f45d68d2348f6eba92d86e9c40b8fb7317daf7807025c30a",
+            "uid": "a0a6c88e659005a2277b3040aa5adb19",
+            "username": "gavruskin"
+        },
+        "revoke": {
+            "sig_ids": [
+                "024d0a9b9866178d150e525826cfb25b6d57a6f112bc286e8c9848a0588c78290f"
+            ]
+        },
+        "service": {
+            "hostname": "alex.gavruskin.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1483165606,
+    "expire_in": 157680000,
+    "prev": "215968e051fb0a07f651a319a6a7088d5d940e019d5060c9620ae17b978d9ae4",
+    "seqno": 16,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.61
+Comment: https://keybase.io/crypto
+
+yMOIAnicrZJtUFVFHMZBSIQR5SVjYECaE4wKRHte9pw9N2Qky1CKQAIsUNpzzp7L
+4eVeuPdygcAZCIYcDSZ7MRinJuVlKkeBEavJVK6DBSMOKIVK3cESiCCcCFODATqX
+sT71sf2ys7vP//d/9tnt8fVw83Fn0j7adW/Ja8j9smO+xG2P8aW2CkoyK+WUoYLK
+JysTKVCI1ZaTrymUgQI0oCWOEFYQBZZjBUjTEqRVDio8UhiWQypPJCwyCuKJKHNA
+QqoksLSgYFVAQAAMlFmAqRhK1UxGYimyaCabjlWRytEcJ9FE5IBAeAwlRRBllmUg
+KxIOq7xKgKCwemGu2eqq0M1J2EpiNbO+py9yVuz9h/5/9l2ygsMA8zJChIciABAz
+jCBILOAAxhArEi26hFZiMeFCoquN2G4pseZrJmp/DGUhdnM+cQVr1Yy6aytlyKIA
+wykAi5KIeJ4WkEJDQCADEcPLqsRAiVeggHmVphlJZnSLSBYRhzCACMkCYkSgUnt1
+tt7SrskrcFdMD9vjAlIW+6+HWNlcqNsrsphtZtlcoJ/n2mxFBpc1W3mRS19KpJyH
+pBxJMyn6S+kFdmKxamYTZaB1pWzTXGiaQyzNQx7wMRQpK9IsJEdzKaDAI6APVxti
+15EMDUUeEaBHLgEMBJWHNGZpEfNYAAgpUNHfnQBaVCDggSzyDMCEFiRRz0LEhKNc
+dys2mXW23sqGjTpTj8+EbSUWQu2/6Mj2dHP3cVv9yCrXF3bz8fb752OX/bV+uSzZ
++cqDmpiWt3dZ5qoHTjyRGjziCY9Uw8GegssRWdHO1qGsyZytbLzw2qhzx/S6hXOB
+74HePYnPFW7LqBo6dPb+jQezvjY69/hS07HWKENUwNTy0pXFxPGatY4EOWxzqt8q
+rjazdjG0/NOtvekNV+uH3+o/Wb3PeWbO2D2hxbXk5mXWpl5CI3/+PHUqyOR4/82e
+peCEhr6E8SR01Xs6MKTZaNpnGy6RZm7ZT0xUwK8OXNvW0Rva/J3D85zz926PqKSW
+808PBNVfC1+wxq0Gux2fd9o3zQ2eNIZHGDLmQ30L7x4wqMfGJzdH3x7aGNFwYyHf
+wH0fcf9m3tHsN55Jz2xt/KM7ILvyzg/3JvwT2t1PjV4qHXeOTjo2gLJR1Cz3R194
+Pfnu6a/Pv9OS2FFZKqV8XH/hZYendvQxeu+RsMbGzvgZq+9Y37cvfnY8vKCzva3L
+M80wG18X19Zx+MvTXTt+rUxpSr6pGgPFqtjhvLL+bxL8Z6dgSPPO9nc7P/Hq2pTR
+tnvt9fDfanydbh9WzXutmxtsEm5Rj9eNnAkKyLsSEhn/5Bf+5tL49WPdz1Jh08zh
+62lrXvArTqMzmbpf5j3S72xAvged2exOW+Rt89gh4xZ/yjvEY35g5qz4Y7DP83Ks
+/0WfzuY+6qn0jO3bi1O8kiK3QMP0TxuXI+QPXk0UhGWy2MCsefRvO2TYyw==
+=ktgO
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gavruskin
+
+==================================================================
+
