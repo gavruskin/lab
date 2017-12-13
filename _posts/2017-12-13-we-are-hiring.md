@@ -2,7 +2,7 @@
 layout: post
 title:  "We are hiring!"
 date:   2017-12-13 15:20:00 +1300
-categories: job
+categories: jobs
 ---
 
 The lab will be launched in February 2018 as a part of the [Department of Computer Science](http://www.cs.otago.ac.nz/) at [University of Otago](http://www.otago.ac.nz/) in [Dunedin](https://www.dunedinnz.com/), and we are planning to recruit a few new members later that year.
