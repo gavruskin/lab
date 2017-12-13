@@ -1,6 +1,5 @@
 ---
 layout: page
-menu: main
 title: People
 permalink: /people/
 ---
