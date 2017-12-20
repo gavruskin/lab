@@ -6,3 +6,5 @@ categories: papers
 ---
 
 Our paper [Inferring Genetic Interactions From Comparative Fitness Data](https://doi.org/10.1101/137372) will appear in [eLife](https://elifesciences.org/) soon!
+
+Update: The paper is now [published](https://elifesciences.org/articles/28629)!
