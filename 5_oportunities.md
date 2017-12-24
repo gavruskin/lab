@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Opportunities
+menu:true
 permalink: /opportunities/
+title: Opportunities
 ---
 
 The lab will be launched in February 2018 as a part of the [Department of Computer Science](http://www.cs.otago.ac.nz/) at [University of Otago](http://www.otago.ac.nz/) in [Dunedin](https://www.dunedinnz.com/), and we are planning to recruit a few new members later that year.

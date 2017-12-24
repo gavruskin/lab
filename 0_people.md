@@ -1,7 +1,8 @@
 ---
 layout: page
-title: People
+menu: true
 permalink: /people/
+title: People
 ---
 
 [Alex Gavryushkin](/alex/)

@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Alex Gavryushkin
 permalink: /alex/
 ---
 

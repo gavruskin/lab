@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Talks & Slides
+menu: true
 permalink: /talks/
+title: Talks & Slides
 ---
 
 - [August 2017](https://www.siam.org/meetings/ag17/), SIAM Conference on Applied Algebraic Geometry, Polyhedral and Combinatorial Biology Symposium, Georgia Tech, Atlanta. Minisymposium talk [Polyhedral Complexes in Phylogenetics and Gene Interaction Studies](2017_SIAM_AG)

@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Publications
+menu: true
 permalink: /publications/
+title: Publications
 ---
 
 - High-dimensional microbiome interactions shape host fitness.
