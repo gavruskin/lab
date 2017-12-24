@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Alex Gavryushkin
 permalink: /alex/
+title: Alex Gavryushkin
 ---
 
 <h3>Alex Gavryushkin</h3>
