@@ -6,8 +6,10 @@ title: Alex Gavryushkin
 
 <h3>Alex Gavryushkin</h3>
 
+Rutherford Discovery Fellow and Senior Lecturer
+
 |**Address**&nbsp;&nbsp;&nbsp;&nbsp;	|[Department of Computer Science](http://www.cs.otago.ac.nz/)	|
-|								|[University of Otago](http://www.cs.otago.ac.nz/)		|
+|					|[University of Otago](http://www.cs.otago.ac.nz/)		|
 |**Office**&nbsp;&nbsp;&nbsp;&nbsp;	|TBA on 1 Feb 2018						|
 |**Email**&nbsp;&nbsp;&nbsp;&nbsp;	|[alex@gavruskin.com](mailto:alex@gavruskin.com)		|
 |**Phone**&nbsp;&nbsp;&nbsp;&nbsp;	|TBA on 1 Feb 2018						|
