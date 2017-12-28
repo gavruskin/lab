@@ -5,7 +5,7 @@ permalink: /pictures/
 title: Pictures
 ---
 
-### Alex Gavryushkin:
+### [Alex Gavryushkin](/alex/):
 ![March 2015](/assets/Gavryushkin_20150318.jpg)
 
 ### Lena Collienne:

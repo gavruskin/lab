@@ -1,6 +1,6 @@
 ---
 layout: page
-menu:true
+menu: true
 permalink: /opportunities/
 title: Opportunities
 ---
