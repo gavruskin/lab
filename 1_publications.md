@@ -27,24 +27,4 @@ title: Publications
 - The space of ultrametric phylogenetic trees.
   With Alexei Drummond.
   *Journal of Theoretical Biology,* Vol. 403, 197–208, 2016
-  ([arXiv:1410.3544](http://arxiv.org/abs/1410.3544)) ([software](https://github.com/gavruskin/tauGeodesic/))
-
-- Toward analysis of structural changes common for alkaline carbonates and binary compounds: prediction of high-pressure structures of Li2CO3, Na2CO3, and K2CO3.
-  With Pavel Gavryushkin, Altyna Behtenova, Zakhar Popov, Vladimir Bakakin, Anna Likhacheva, and Konstantin Litasov.
-  *Crystal Growth &amp; Design,* 16, 10, 5612–5617, 2016
-  ([.epdf](http://pubs.acs.org/doi/pdf/10.1021/acs.cgd.5b01793))
-
-- Stability of B2-type FeS at Earth’s inner core pressures.
-  With Pavel Gavryushkin, Zakhar Popov, Konstantin Litasov, and Anatoly Belonoshko.
-  *Geophysical Research Letters,* 43, 16, 8435–8440, 2016
-  ([.epdf](http://onlinelibrary.wiley.com/doi/10.1002/2016GL069374/epdf))
-
-- How well can the exponential-growth coalescent approximate constant-rate birth-death population dynamics?
-  With Tanja Stadler, Tim Vaughan, Stephane Guindon, Denise Kuehnert, Gabriel Leventhal, and Alexei Drummond.
-  *Proceedings of the Royal society B,* 282, 1806, 2015
-  ([.pdf](http://rspb.royalsocietypublishing.org/content/royprsb/282/1806/20150420.full.pdf))
-
-- Unbiased crystal structure prediction of NiSi under high pressure.
-  With Pavel Gavryushkin, Zakhar Popov, and Konstantin Litasov.
-  *Journal of Applied Crystallography,* 48, 3, 906–908, 2015
-  ([arXiv:1503.06079](http://arxiv.org/abs/1503.06079))
+  ([arXiv:1410.3544](http://arxiv.org/abs/1410.3544))
