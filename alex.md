@@ -6,7 +6,7 @@ title: Alex Gavryushkin
 
 <h3>Alex Gavryushkin</h3>
 
-Rutherford Discovery Fellow
+[Rutherford Discovery Fellow](https://royalsociety.org.nz/what-we-do/funds-and-opportunities/rutherford-discovery-fellowships)
 
 |**Address**&nbsp;&nbsp;&nbsp;&nbsp;	|[Department of Computer Science](http://www.cs.otago.ac.nz/)						|
 |					|[University of Otago](http://www.cs.otago.ac.nz/)							|
