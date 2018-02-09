@@ -9,7 +9,7 @@
 	<meta name="apple-mobile-web-app-capable" content="yes" />
 	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 	<link rel="stylesheet" href="css/reveal.css">
-	<link rel="stylesheet" href="css/theme/simple_gavruskin_left.css" id="theme">
+	<link rel="stylesheet" href="css/theme/simple_gavruskin.css" id="theme">
 	<link rel="stylesheet" href="lib/css/zenburn.css">
 	<!--[if lt IE 9]>
 	<script src="lib/js/html5shiv.js"></script>
@@ -21,7 +21,6 @@
 <div class="slides">
 
 <section>
-<div align="center">
 	<h3>
 	  Fitness landscapes and incomplete data
 	</h3>
@@ -34,21 +33,20 @@
 	<p style="font-size:14pt">
 	  12 February 2018
 	</p>
-</div>
 </section>
 
 <section>
 	<img data-src="images/fitness_shapes_2_loci_BPS_axis.png">
-	<p class="fragment" data-fragment-index="2">
+	<p class="fragment" data-fragment-index="1" align="left">
 	  Throughout, we consider $n$ <b>biallelic</b> loci, for different $n$.
 	</p>
-	<p class="fragment" data-fragment-index="2">
+	<p class="fragment" data-fragment-index="1" align="left">
 	  That is, the set of genotypes is $\mathcal G = \{0,1\}^{n}$.
 	</p>
-	<p class="fragment" data-fragment-index="2">
+	<p class="fragment" data-fragment-index="1" align="left">
 	  A <i>fitness landscape</i> is a function $w:\mathcal G \to \mathbb R^+$.
 	</p>
-	<p class="fragment" data-fragment-index="2">
+	<p class="fragment" data-fragment-index="1" align="left">
 	  For $g \in \mathcal G$, &ensp;$w(g)$ is called the <i>fitness</i> of genotype $g$ and denoted $w_g$.
 	</p>
 </section>
@@ -63,23 +61,17 @@
 </section>
 
 <section>
-	<h3><u>Problem:</u> What if no (credible) fitness measurements are available?</h3>
-	<p class="fragment" data-fragment-index="1" align="center">
-	Like in this malaria drug resistance data set:
-	<img class="stretch" data-src="images/tem.svg" align="center">
-	<br>
-	<font size="3">Ogbunugafor et al. <i>Malar. J.</i> 2016</font>
-	</p>
+	<h4><u>Problem:</u> What if no (credible) fitness measurements are available?</h4>
+	<img data-src="images/disc_diffusion.png">
+	<font size="3">Image: <a href="https://en.wikipedia.org/wiki/Agar_diffusion_test">Wikipedia</a></font>
 </section>
 
 <section>
-	<h3>Why is fitness hard to measure?</h3>
-	<div align="center">
-	<img data-src="images/disc_diffusion.png" align="center">
-	</div>
-	<div align="center">
-	<font size="3"><a href="https://en.wikipedia.org/wiki/Agar_diffusion_test">Wikipedia</a></font>
-	</div>
+	<h4>Mutation fitness graph</h4>
+	<img class="stretch" data-src="images/tem.svg">
+	<br>
+	<font size="3">Ogbunugafor et al. <i>Malar. J.</i> 2016</font>
+	</p>
 </section>
 
 <section>
@@ -118,39 +110,37 @@ among all rank orders is:
 </section>
 
 <section>
-	<h4>Mutation graph</h4>
-	<img class="stretch" data-src="images/tem_1111_top.svg">
-</section>
-
-<section>
-  <section>
 	<h4>Connection between rank orders and mutation graphs</h4>
 	<img class="stretch" data-src="images/all_total_extensions_of_p_o.svg">
-  </section>
-
-  <section>
-	  <b>Theorem 2.</b> Let $f$ be a linear form with integer coefficients.
-	  Assume that the sum of the coefficients of $f$ is zero.
-	  Then a rank order implies that $f$ is not zero if and only if the rank order is mapped to a Dyck word by $\varphi^f$.
-	<p class="fragment" data-fragment-index="1">
-	  <b>Theorem 3.</b> A partial order implies $f$-interaction exactly if all its total extensions do.
+	<p class="fragment">
+	  <b>Observation:</b> A partial fitness order implies epistasis if and only if all its total extensions do.
 	</p>
-	<p class="fragment" data-fragment-index="2">
-	  Call a map $g: O \to E$ monotonic with respect to a partial order $\prec$ if $x \prec g(x)$ for all $x$, where $O \sqcup E$ is a partition of $\prec$.
-	</p>
-	<p class="fragment" data-fragment-index="3">
-	  <b><s>Conjecture 4.</s></b> <b>Theorem 4.</b> A partial order $\prec$ implies positive (negative) interaction iff there exists a monotonic wrt $\prec$ bijection from $O$ to $E$ (from $E$ to $O$).
-	</p>
-  </section>
 </section>
 
 <section>
+	<p class="fragment shrink" data-fragment-index="1"> 
+	  Let $f$ be a linear form with integer coefficients.
+	  Assume that the sum of the coefficients of $f$ is zero.
+	  A partial fitness order of genotypes $\prec$ implies positive $f$-interaction if $f(w) > 0$ whenever $w$ satisfy $\prec$.
+	</p>
+	<p class="fragment" data-fragment-index="1">
+	  <b>Theorem:</b> A partial order $P = (G, \prec)$ implies positive $f$-interaction if and only if there exists a partition of the set of all genotypes $G$ into pairs $(p_i, n_j)$ such that $p_i \succ n_j$ for all $i, j$.
+	</p>
+	<p class="fragment" data-fragment-index="1">
+	  Proof: <a href="https://doi.org/10.1101/180976" class="fragment" data-fragment-index="2"> Exercise.</a>
+	</p>
+	<p class="fragment" data-fragment-index="3">
+	  <b>Corollary:</b> It is polynomial in the number of genotypes to check whether a partial order implies $f$-interaction.
+	</p>
+</section>
+
 <section>
+  <section>
 	<h3>Applications</h3>
 	<ul>
 	<li> <p>HIV-1</p>
 	<li> <p class="fragment highlight-blue">Antibiotic resistance</p>
-	<li> <p>Gut microbiome (with Will Ludington, UC Berkeley)</p>
+	<li> <p>Gut microbiome</p>
 	<li> <p>Synthetic lethality</p>
 	<li> <p>Knockdown cell lines</p>
 	</ul>
@@ -159,34 +149,37 @@ among all rank orders is:
 	Methodologically, this allows us to advise further measurements (experiments) for incomplete data sets, thus reducing the number of potential experiments significantly.
 	</p>
 	</div>
-</section>
+  </section>
 
-<section data-transition="slide-in fade-out">
+  <section data-transition="slide-in fade-out">
 	<h4>Example: antibiotic resistance</h4>
 	<img class="stretch" data-src="images/Mira_2015_genotypes.svg">
 	<div align="left">
 	<font size="3">Mira et al. <i>PLOS ONE,</i> 2015</font>
 	</div>
-</section>
+  </section>
 
-<section data-transition="fade-in fade-out">
+  <section data-transition="fade-in fade-out">
 	<h4>Example: antibiotic resistance</h4>
 	<img class="stretch" data-src="images/Mira_2015_antibiotics.svg">
-</section>
+  </section>
 
-<section data-transition="fade-in fade-out">
+  <section data-transition="fade-in fade-out">
 	<h4>Example: antibiotic resistance</h4>
 	<img class="stretch" data-src="images/Mira_2015_fitness_summary.svg">
-</section>
+  </section>
 
-<section data-transition="fade-in slide-out">
+  <section data-transition="fade-in slide-out">
 	<h4>Example: antibiotic resistance</h4>
 	<img class="stretch" data-src="images/Mira_2015_rank_order.svg">
-</section>
+  </section>
 </section>
 
 <section data-transition="slide-in fade-out">
 	<img class="stretch" data-src="images/tem_for_Niko.svg">
+	<div align="left">
+	<font size="3">Mira et al. <i>PLOS ONE,</i> 2015</font>
+	</div>
 </section>
 
 <section data-transition="fade-in fade-out">
@@ -206,7 +199,8 @@ among all rank orders is:
 </section>
 
 <section>
-	<h3>Results in more detail</h3>
+  <section>
+	<h3>Results summary</h3>
 	Efficient methods for:
 	<ul>
 	<li> Circuit interaction inference (including epistasis and three-way interaction) for total orders
@@ -217,25 +211,9 @@ among all rank orders is:
 	<br>
 	Software (pre-release stage):<br>
 	<a href="https://github.com/gavruskin/fitlands">https://github.com/gavruskin/fitlands</a>
-</section>
+  </section>
 
-<section>
-	<h3>Want to learn more?</h3>
-	We've got you covered!<br><br>
-	<ul>
-	<li> All my talks (including this one) are at<br>
-	<a href="http://alex.gavruskin.com/talks">http://alex.gavruskin.com/talks</a><br><br>
-	<li> Preprints are at<br>
-	<a href="http://alex.gavruskin.com/publications">http://alex.gavruskin.com/publications</a><br><br>
-	<li> Software (and manuscripts in-progress) here:<br>
-	<a href="https://github.com/gavruskin">https://github.com/gavruskin</a><br><br>
-	</ul>
-</section>
-
-
-
-
-<section>
+  <section>
 	<h3>Understanding three-way interactions</h3>
 
 	<p class="fragment" data-fragment-index="1">
@@ -262,9 +240,9 @@ among all rank orders is:
 	<p class="fragment" data-fragment-index="4">
 	  Total mess!
 	</p>
-</section>
+  </section>
 
-<section>
+  <section>
 	<h3>Algebraic Geometry sorts out the mess!</h3>
 	$e = \frac12(u_{011} + u_{111})$
 	<p class="fragment" data-fragment-index="1">
@@ -278,9 +256,9 @@ among all rank orders is:
 	<p class="fragment" data-fragment-index="3">
 	  Yep, we've got the list!
 	</p>
-</section>
+  </section>
 
-<section data-transition="slide-in none-out">
+  <section data-transition="slide-in none-out">
 	$$
 	\scriptsize
 	\begin{align*}
@@ -298,9 +276,9 @@ among all rank orders is:
 	l&=w_{010}-w_{011}-w_{100}+w_{101}\\
 	\end{align*}
 	$$
-</section>
+  </section>
 
-<section data-transition="none-in slide-out">
+  <section data-transition="none-in slide-out">
 	$$
 	\scriptsize
 	\begin{align*}
@@ -318,53 +296,41 @@ among all rank orders is:
 	l&=w_{010}-w_{011}-w_{100}+w_{101}\\
 	\end{align*}
 	$$
+  </section>
 </section>
 
 <section>
-	<h3>This is known as Beerenwinkel-Pachter-Sturmfels approach,</h3>
-	which provides a complete picture of interactions!<br>
-	<br>
-	<h3>BUT</h3>
-	<p class="fragment" data-fragment-index="1">
-	  the approach is
-	</p>
+	<h3>Want to learn more?</h3>
 	<ul>
-	  <li class="fragment" data-fragment-index="1">
-	    based on the availability of fitness measurements
-	  </li>
-	  <li class="fragment" data-fragment-index="1">
-	    computationally feasible for up to four loci
-	  </li>
+	<li> Come join us! We are hiring:<br>
+	<a href="http://lab.gavruskin.com/opportunities">http://lab.gavruskin.com/opportunities</a><br><br>
+	<li> All our talks (including this one) are at<br>
+	<a href="http://lab.gavruskin.com/talks">http://lab.gavruskin.com/talks</a><br><br>
+	<li> Preprints are at<br>
+	<a href="http://lab.gavruskin.com/publications">http://lab.gavruskin.com/publications</a><br><br>
+	<li> Software (and manuscripts in-progress) here:<br>
+	<a href="https://github.com/gavruskin">https://github.com/gavruskin</a><br><br>
 	</ul>
 </section>
 
-<section>
-	<h3>Results at a glance</h3>
-	<ul>
-	  <li> We provide a complete characterization of <i>partial fitness orders</i> that imply circuit interaction (think epistasis).
-	  <li> Partial fitness orders arise in competition-like experiments and include:
+<section data-transition="fade-in" data-autoslide="2000">
+        <h4>Acknowledgements</h4>
+	  <font size="4">
 	    <ul>
-	      <li> Rank orders
-	      <li> Mutation fitness graphs
+		<li> You
+		<li> Niko Beerenwinkel, ETH Zürich
+		<li> Bernd Sturmfels, Max Planck Institute Leipzig
+		<li> Kristina Crona, American University
+		<li> Devin Greene, American University
+		<li> Lisa Lamberti, ETH Zürich
+		<li> Caitlin Lienkaemper, Penn State
 	    </ul>
-	</ul>
+	  </font>
 	<br>
-	<br>
-	<font size="4">Inferring Genetic Interactions From Comparative Fitness Data, <a href="https://doi.org/10.1101/137372"><i>bioRxiv</i></a>, 2017</font>
-</section>
-
-<section>
-        <h4>Funding</h4>
-        <img class="stretch" align="center" data-src="images/funding_Auckland_ETH_SiB.svg">
-</section>
-
-<section data-transition="fade-in" data-autoslide="1000" data-background-image="images/ethKuppel.svg">
-	<h3>
-	Thanks for your attention!<br>
-	<br>
-	<br>
-	<p class="fragment slide-in" data-autoslide="1000">and stay tuned</p>
-	</h3>
+        <img width="50%" data-src="images/funding_ETH_RDF.svg">
+	<p class="fragment slide-in" data-autoslide="2000">
+	  <a href="http://lab.gavruskin.com">and stay tuned</a>
+	</p>
 </section>
 
 </div>
