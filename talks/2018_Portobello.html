@@ -112,7 +112,7 @@ among all rank orders is:
 <section>
 	<h4>Connection between rank orders and mutation graphs</h4>
 	<img class="stretch" data-src="images/all_total_extensions_of_p_o.svg">
-	<p class="fragment">
+	<p>
 	  <b>Observation:</b> A partial fitness order implies epistasis if and only if all its total extensions do.
 	</p>
 </section>
@@ -124,13 +124,13 @@ among all rank orders is:
 	  A partial fitness order of genotypes $\prec$ implies positive $f$-interaction if $f(w) > 0$ whenever $w$ satisfy $\prec$.
 	</p>
 	<p class="fragment" data-fragment-index="1">
-	  <b>Theorem:</b> A partial order $P = (G, \prec)$ implies positive $f$-interaction if and only if there exists a partition of the set of all genotypes $G$ into pairs $(p_i, n_j)$ such that $p_i \succ n_j$ for all $i, j$.
+	  <b>Theorem:</b> A partial order $P = (G, \prec)$ implies positive $f$-interaction if and only if there exists a partition of the set of all genotypes $G$ into pairs $(p_i, n_j)$ such that $p_i \succ n_j$ for all $i, j$, where $p_i$ have positive coefficients in $f$ and $n_j$ negative.
 	</p>
 	<p class="fragment" data-fragment-index="1">
 	  Proof: <a href="https://doi.org/10.1101/180976" class="fragment" data-fragment-index="2"> Exercise.</a>
 	</p>
 	<p class="fragment" data-fragment-index="3">
-	  <b>Corollary:</b> It is polynomial in the number of genotypes to check whether a partial order implies $f$-interaction.
+	  <b>Corollary:</b> It is polynomial in the number of genotypes ($n^{5/2}$) to check whether a partial order implies $f$-interaction.
 	</p>
 </section>
 
@@ -145,7 +145,7 @@ among all rank orders is:
 	<li> <p>Knockdown cell lines</p>
 	</ul>
 	<div align="left">
-	<p class="fragment" data-fragment-index="1">
+	<p>
 	Methodologically, this allows us to advise further measurements (experiments) for incomplete data sets, thus reducing the number of potential experiments significantly.
 	</p>
 	</div>
