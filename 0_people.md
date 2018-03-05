@@ -17,5 +17,9 @@ title: People
 
 ### Masters students
 
-- Lena Collienne (Masters Student, University of Greifswald)
+- Lena Collienne (University of Greifswald)
 - [You!](/opportunities/)
+
+### Project students
+
+- Kieran Elmes
