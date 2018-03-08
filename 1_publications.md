@@ -7,20 +7,21 @@ title: Publications
 
 - High-dimensional microbiome interactions shape host fitness.
   With Alison Gould, Vivian Zhang, Lisa Lamberti, Eric Jones, Benjamin Obadia, Jean Carlson, Niko Beerenwinkel, and Will Ludington.
-  *bioRxiv,* DOI: [10.1101/232959](https://doi.org/10.1101/232959), 2017
+  *bioRxiv,* [DOI:10.1101/232959](https://doi.org/10.1101/232959), 2017
 
 - The geometry of partial fitness orders and an efficient method for detecting genetic interactions.
   With Caitlin Lienkaemper, Lisa Lamberti, James Drain, and Niko Beerenwinkel.
   *Journal of Mathematical Biology,* under revision.
-  *bioRxiv,* DOI: [10.1101/180976](https://doi.org/10.1101/180976), 2017
+  *bioRxiv,* [DOI:10.1101/180976](https://doi.org/10.1101/180976), 2017
 
 - Inferring genetic interactions from comparative fitness data.
   With Kristina Crona, Devin Greene, and Niko Beerenwinkel.
-  *eLife* 2017;6:e28629, DOI: [10.7554/eLife.28629](https://doi.org/10.7554/eLife.28629), 2017
+  *eLife* Vol. 6(e28629), 2017
+  ([DOI:10.7554/eLife.28629](https://doi.org/10.7554/eLife.28629))
 
 - The combinatorics of discrete time-trees: theory and open problems.
   With Chris Whidden and Erick Matsen.
-  *Journal of Mathematical Biology,* DOI: [10.1007/s00285-017-1167-9](http://dx.doi.org/10.1007/s00285-017-1167-9), 2017
+  *Journal of Mathematical Biology,* 76(5), 1101–1121, 2017
   ([blog post by Erick](http://matsen.fredhutch.org/general/2016/07/11/discrete-time-tree.html))
   ([.pdf](https://link.springer.com/content/pdf/10.1007%2Fs00285-017-1167-9.pdf))
 
