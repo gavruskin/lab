@@ -16,7 +16,7 @@ title: Publications
 
 - Inferring genetic interactions from comparative fitness data.
   With Kristina Crona, Devin Greene, and Niko Beerenwinkel.
-  *eLife* Vol. 6(e28629), 2017
+  *eLife* 2017;6:e28629, 2017
   ([DOI:10.7554/eLife.28629](https://doi.org/10.7554/eLife.28629))
 
 - The combinatorics of discrete time-trees: theory and open problems.
