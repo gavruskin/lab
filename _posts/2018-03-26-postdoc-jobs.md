@@ -5,18 +5,17 @@ date:   2018-03-26 12:00:00 +1300
 categories: jobs
 ---
 
-Applications are invited for a postdoctoral position at the [Biological Data Science lab](http://lab.gavruskin.com) within the [Department of Computer Science](http://www.cs.otago.ac.nz/), [University of Otago](http://www.otago.ac.nz/).
+We are thrilled to announce that we will soon start a formal search for new lab members!
+These will include all levels, from interns to postdocs, but in this post we wish to talk about how to become the inaugural postdoc at the [Biological Data Science lab](http://lab.gavruskin.com) within the [Department of Computer Science](http://www.cs.otago.ac.nz/), [University of Otago](http://www.otago.ac.nz/).
 
-This is a full-time fixed-term position.
-The initial contract will be for one year, with a possibility of extension depending on mutual interest.
-In exceptional cases, a different initial term can be negotiated.
+On the practical side of things, we will be offering a one year fixed-term position in the first instance, but we are also quite flexible and the final offer will be tailored to the successful applicant.
 The appointment will be made at the Postdoctoral Fellow or Research Fellow [level](http://www.otago.ac.nz/humanresources/working-at-otago/salaries-and-payments/pay-scales/index.html), depending on experience.
-Depending on the applications received, we might make several appointments.
-
 The successful candidate will have a PhD in mathematics, computer science, statistics, bioinformatics, or a related area.
 The work will be carried out in beautiful Dunedin, the gateway to New Zealand’s most magnificent region of Otago.
 
-The details of the project and related information as as follows.
+Now, the interesting part.
+At our lab, you will be presented with a unique opportunity to chose from a variety of interdisciplinary projects the one (or more!) that suites you best, build and expand your network of collaborators, and move your science to the next level.
+Read on to learn about things that we find exciting at our lab and feel free to suggest more!
 
 Evolutionary analysis of large molecular sequence data is widely employed throughout modern biology, medicine, and pharmacology.
 Thanks to next generation sequencing technologies, thousands of whole genome sequences are constantly produced at low cost.
@@ -30,7 +29,7 @@ The pressing need to develop effective computational methods that can accurately
 The ever-accelerating pace at which genomic, transcriptomic, and proteomic data is produced in the modern world makes it impractical to rerun all analyses every time new data arrives or existing data is refined.
 The need to rerun the same analysis over and over again with slightly different data is a fundamental reason why inaccurate and often unreliable heuristics are favoured over statistically sound methods.
 
-This motivates research on so-called “online” computational biology algorithms capable of integrating new data as it appears.
+This motivates research on so-called "online" computational biology algorithms capable of integrating new data as it appears.
 At our lab, you will be presented with is a unique opportunity to contribute to the rapidly developing field of online computational biology at its early stages.
 As a successful candidate, you will take up a leading role in the development of online algorithms for evolutionary analysis of omics data.
 You will apply methods from modern branches of computational geometry, data science, or computer science to enhance statistical and computational performance of evolutionary approaches used in genomics, cancer research, ecology, or pharmacology.
@@ -42,7 +41,4 @@ This project is embedded in the highly interdisciplinary Rutherford Discovery Fe
 Our collaborators span various divisions at Otago (Mathematics & Statistic, Biochemistry, Dunedin School of Medicine), universities in New Zealand (Auckland and Canterbury) and overseas (ETH Zurich, Max Planck Institutes in Plön and Leipzig, Fred Hutch Cancer Research Centre in Seattle).
 An opportunity to collaborate with these institutions will be available to the successful candidate.
 
-All interested candidates are encouraged to [email](mailto:alex@gavruskin.com) an expression of interest to Alex.
-The instructions of how to formally lodge your application with Human Resources will follow.
-The deadline for formal applications is expected to be in or around June 2018 and will be announced soon.
-The expected starting date is late 2018 but can be negotiated with the successful candidate.
+Find this interesting? So do we! Get in touch with [Alex](mailto:alex@gavruskin.com), who is keen to hear from you.
