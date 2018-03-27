@@ -14,7 +14,7 @@ The successful candidate will have a PhD in mathematics, computer science, stati
 The work will be carried out in beautiful Dunedin, the gateway to New Zealand’s most magnificent region of Otago.
 
 Now, the interesting part.
-At our lab, you will be presented with a unique opportunity to chose from a variety of interdisciplinary projects the one (or more!) that suites you best, build and expand your network of collaborators, and move your science to the next level.
+At our lab, you will be presented with a unique opportunity to choose from a variety of interdisciplinary projects the one (or more!) that suits you best, build and expand your network of collaborators, and move your science to the next level.
 Read on to learn about things that we find exciting at our lab and feel free to suggest more!
 
 Evolutionary analysis of large molecular sequence data is widely employed throughout modern biology, medicine, and pharmacology.
@@ -30,7 +30,7 @@ The ever-accelerating pace at which genomic, transcriptomic, and proteomic data 
 The need to rerun the same analysis over and over again with slightly different data is a fundamental reason why inaccurate and often unreliable heuristics are favoured over statistically sound methods.
 
 This motivates research on so-called "online" computational biology algorithms capable of integrating new data as it appears.
-At our lab, you will be presented with is a unique opportunity to contribute to the rapidly developing field of online computational biology at its early stages.
+At our lab, you will contribute to the rapidly developing field of online computational biology at its early stages.
 As a successful candidate, you will take up a leading role in the development of online algorithms for evolutionary analysis of omics data.
 You will apply methods from modern branches of computational geometry, data science, or computer science to enhance statistical and computational performance of evolutionary approaches used in genomics, cancer research, ecology, or pharmacology.
 
