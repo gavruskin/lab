@@ -10,4 +10,4 @@ Or working on mathematical foundations of these methods?
 Want to live in New Zealand's most magnificent region of Otago?
 Get [in touch](mailto:alex@gavruskin.com) with us to express your interest in joining the lab!
 We currently accept applications for Masters and PhD research at our lab.
-We are about to formally advertise [http://lab.gavruskin.com/jobs/2018/03/27/postdoc-jobs.html](postdoc positions) as well, so stay tuned.
+We are about to formally advertise [postdoc positions](http://lab.gavruskin.com/jobs/2018/03/27/postdoc-jobs.html) as well, so stay tuned.
