@@ -13,7 +13,6 @@ title: Alex Gavryushkin
 |**Email**&nbsp;&nbsp;&nbsp;&nbsp;	|[alex@gavruskin.com](mailto:alex@gavruskin.com)								|
 |**Phone**&nbsp;&nbsp;&nbsp;&nbsp;	|[+64 3 479 8494](tel:+64-3-479-8494)										|
 |**CV**&nbsp;&nbsp;&nbsp;&nbsp;		|[Download .pdf](/alex/AGcv_short.pdf)										|
-
-**[Schedule an appointment with Alex](https://doodle.com/gavruskin/)**
+|**Meet me**				|[Schedule an appointment with Alex](https://doodle.com/gavruskin/)						|
 
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=alex%40gavruskin.com&amp;color=%23182C57&amp;src=gavruskin.com_43veo0fhcbie6utmesfbqnoh28%40group.calendar.google.com&amp;color=%2323164E&amp;src=en.new_zealand%23holiday%40group.v.calendar.google.com&amp;color=%238C500B&amp;src=g2fpq3d9nho869phomqurbgnkg%40group.calendar.google.com&amp;color=%231B887A&amp;ctz=Pacific%2FAuckland" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
