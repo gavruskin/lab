@@ -19,7 +19,7 @@ Read on to learn about things that we find exciting at our lab and feel free to 
 
 Evolutionary analysis of large molecular sequence data is widely employed throughout modern biology, medicine, and pharmacology.
 Thanks to next generation sequencing technologies, thousands of whole genome sequences are constantly produced at low cost.
-Today’s computational methods and technologies are barely prepared to analyse big "omics" data and answer basic biological questions in a statistically sound way.
+Today’s computational methods and technologies are barely prepared to analyse big genomic and other "omics" data and answer basic biological questions in a statistically sound way.
 As a result many big data sets are analysed with simple and inappropriate models or using approximations that may produce inaccurate inferences.
 The roots of the problem lie in our lack of understanding of fundamental mathematical principles that form the grounds for evolutionary analysis of omics data.
 Many recent breakthroughs in computational biology were made possible due to mathematical advances.
