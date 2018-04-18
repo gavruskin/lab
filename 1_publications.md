@@ -11,7 +11,7 @@ title: Publications
 
 - The geometry of partial fitness orders and an efficient method for detecting genetic interactions.
   With Caitlin Lienkaemper, Lisa Lamberti, James Drain, and Niko Beerenwinkel.
-  *Journal of Mathematical Biology,* under revision.
+  *Journal of Mathematical Biology,* to appear.
   *bioRxiv,* [DOI:10.1101/180976](https://doi.org/10.1101/180976), 2017
 
 - Inferring genetic interactions from comparative fitness data.
