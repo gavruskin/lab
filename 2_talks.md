@@ -5,6 +5,8 @@ permalink: /talks/
 title: Talks & Slides
 ---
 
+- [April 2018](https://www.otago.ac.nz/biochemistry/news/events/otago683209.html), Department of Biochemistry, University of Otago. Seminar talk [Fitness landscapes, genetic interactions, and inexact data](2018_Otago_Biochem)
+
 - [February 2018](http://www.canterbury.ac.nz/engineering/schools/mathematics-statistics/research/bio/events/portobello-2018/), Portobello 2018, the Interface of Mathematics and Biology, 22nd Annual New Zealand Phylogenomics Meeting. Regular talk [Fitness landscapes and incomplete data](2018_Portobello)
 
 - [August 2017](https://www.siam.org/meetings/ag17/), SIAM Conference on Applied Algebraic Geometry, Polyhedral and Combinatorial Biology Symposium, Georgia Tech, Atlanta. Minisymposium talk [Polyhedral Complexes in Phylogenetics and Gene Interaction Studies](2017_SIAM_AG)
@@ -27,7 +29,7 @@ title: Talks & Slides
 
 - [September 2016](http://www.sib.swiss/), Swiss Institute of Bioinformatics, Zürich, Switzerland. Workshop talk [Discrete time-trees: theory and open problems](2016_PhyloSIB)
 
-- [June 2016](http://www.evolutionmeetings.org/special-talks.html), Evolution Meeting, Austin, Texas. Spotlight Session talk [Nearest neighbors of phylogenetic time-trees](2016_Evolution.pdf)
+- [June 2016](http://www.evolutionmeetings.org/special-talks.html), Evolution Meeting, Austin, Texas. Spotlight Session talk [Nearest neighbours of phylogenetic time-trees](2016_Evolution.pdf)
 
 - [November 2015](https://www.bsse.ethz.ch/cbg), ETH Zürich, Basel, Switzerland. Seminar talk [Convergence and curvature of phylogenetic Markov chains](2015_ETH.pdf)
 
