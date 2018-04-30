@@ -42,3 +42,5 @@ Our collaborators span various divisions at Otago (Mathematics & Statistic, Bioc
 An opportunity to collaborate with these institutions will be available to the successful candidate.
 
 Find this interesting? So do we! Get in touch with [Alex](mailto:alex@gavruskin.com), who is keen to hear from you.
+
+UPD: To formally apply please follow the instructions at [Otago jobs website](https://otago.taleo.net/careersection/2/jobdetail.ftl?job=1800797).
