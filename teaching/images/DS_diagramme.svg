@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2878906"
-     inkscape:cx="303.32529"
-     inkscape:cy="310.46664"
+     inkscape:cx="303.32528"
+     inkscape:cy="310.46663"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -99,27 +99,15 @@
          y="194.92891"
          style="font-size:60px">Algorithms</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:80px;line-height:0.99999998%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="374.23602"
-       y="532.9375"
-       id="text4161-7"
-       sodipodi:linespacing="0.99999998%"><tspan
-         sodipodi:role="line"
-         id="tspan4163-5"
-         x="374.23602"
-         y="532.9375"
-         style="font-size:60px">Statistics</tspan></text>
-    <text
        sodipodi:linespacing="0.99999998%"
        id="text4202"
-       y="532.9375"
-       x="374.23602"
+       y="588.9375"
+       x="376.23602"
        style="font-style:normal;font-weight:normal;font-size:80px;line-height:0.99999998%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-size:60px"
-         y="532.9375"
-         x="374.23602"
+         y="588.9375"
+         x="376.23602"
          id="tspan4204"
          sodipodi:role="line">Statistics</tspan></text>
     <text
@@ -162,13 +150,13 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:80px;line-height:0.99999998%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="268.14755"
-       y="573.52515"
+       y="561.52515"
        id="text4161-2-7"
        sodipodi:linespacing="0.99999998%"><tspan
          sodipodi:role="line"
          id="tspan4163-9-0"
          x="268.14755"
-         y="573.52515"
+         y="561.52515"
          style="font-size:60px">AS</tspan></text>
     <text
        xml:space="preserve"
