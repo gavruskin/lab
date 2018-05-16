@@ -291,12 +291,12 @@
      showgrid="false"
      borderopacity="0.0"
      inkscape:current-layer="layer1"
-     inkscape:cx="784.84676"
+     inkscape:cx="785.8783"
      inkscape:cy="700.39409"
      showguides="true"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1080"
+     inkscape:window-height="1056"
      showborder="true"
      inkscape:pageopacity="0.0"
      inkscape:document-units="px"
@@ -1083,7 +1083,7 @@
          x="419.92285"
          y="-316.36661">DNA</tspan></text>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.04858184;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5377)"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.04900018;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5377)"
        d="m 109.83673,-232.26338 c 0,-54.81241 0,-54.81241 0,-54.81241"
        id="path4712"
        inkscape:connector-curvature="0" />
@@ -1626,7 +1626,7 @@
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:18.21732712;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:11.31394482;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5377-9-0)"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4.00000024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5377-9-0)"
        d="M 746.21561,384.93221 C 69.917174,296.34593 69.917174,296.34593 69.917174,296.34593"
        id="path4712-8-0"
        inkscape:connector-curvature="0" />
@@ -1727,7 +1727,7 @@
             <dc:title>Openclipart</dc:title>
           </cc:Agent>
         </dc:publisher>
-        <dc:title></dc:title>
+        <dc:title />
         <dc:date>2006-12-26T00:00:00</dc:date>
         <dc:description />
         <dc:source>https://openclipart.org/detail/24521/-by--24521</dc:source>
