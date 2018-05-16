@@ -12,15 +12,15 @@
    id="svg6323"
    sodipodi:docname="central_dogma.svg"
    inkscape:export-filename="/home/nathan/Desktop/Anthony Liekens/double_helix_anthony_lie_01.png"
-   viewBox="0 0 1567.2989 822.31247"
+   viewBox="0 0 1847.2989 961.21486"
    sodipodi:version="0.32"
    inkscape:export-xdpi="89.460815"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-ydpi="89.460815"
    inkscape:version="0.91 r13725"
-   width="1567.2988"
-   height="822.31244">
+   width="1847.2988"
+   height="961.21484">
   <defs
      id="defs4229">
     <marker
@@ -285,18 +285,18 @@
      inkscape:pageshadow="0"
      inkscape:guide-bbox="true"
      pagecolor="#ffffff"
-     inkscape:zoom="0.68548773"
+     inkscape:zoom="0.48471302"
      inkscape:window-width="1920"
      borderlayer="true"
      showgrid="false"
      borderopacity="0.0"
      inkscape:current-layer="layer1"
-     inkscape:cx="706.77899"
-     inkscape:cy="514.18691"
+     inkscape:cx="784.84676"
+     inkscape:cy="700.39409"
      showguides="true"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1056"
+     inkscape:window-height="1080"
      showborder="true"
      inkscape:pageopacity="0.0"
      inkscape:document-units="px"
@@ -309,7 +309,7 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     transform="translate(125.36399,454.54083)">
+     transform="translate(125.36399,453.44322)">
     <g
        id="g2411">
       <path
@@ -1090,13 +1090,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:80px;line-height:0.99999998%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-11.732517"
+       x="-119.73252"
        y="351.13104"
        id="text4708-4"
        sodipodi:linespacing="0.99999998%"><tspan
          sodipodi:role="line"
          id="tspan4710-9"
-         x="-11.732517"
+         x="-119.73252"
          y="351.13104">RNA</tspan></text>
     <rect
        x="-80.952522"
@@ -1540,7 +1540,8 @@
        id="rect6765-3-2-4-6-4"
        transform="scale(-1,1)" />
     <g
-       id="g5840">
+       id="g5840"
+       transform="translate(280.00001,200.00001)">
       <text
          sodipodi:linespacing="0.99999998%"
          id="text5243-12-4-3"
@@ -1625,26 +1626,26 @@
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:18.21732712;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.04858184;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5377-9-0)"
-       d="m 495.96683,150.01045 c -54.81241,0 -54.81241,0 -54.81241,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:11.31394482;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5377-9-0)"
+       d="M 746.21561,384.93221 C 69.917174,296.34593 69.917174,296.34593 69.917174,296.34593"
        id="path4712-8-0"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.04858184;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5377-9-0-9)"
-       d="m 1012.7675,150.01045 c -54.81243,0 -54.81243,0 -54.81243,0"
+       d="m 1292.7675,350.01045 c -54.8124,0 -54.8124,0 -54.8124,0"
        id="path4712-8-0-5"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:80px;line-height:0.99999998%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1168.1849"
-       y="179.80537"
+       x="1448.1849"
+       y="379.80539"
        id="text5836"
        sodipodi:linespacing="0.99999998%"><tspan
          sodipodi:role="line"
          id="tspan5838"
-         x="1168.1849"
-         y="179.80537">Protein</tspan></text>
+         x="1448.1849"
+         y="379.80539">Protein</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:80px;line-height:0.99999998%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1659,46 +1660,57 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:80px;line-height:0.99999998%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="407.90439"
-       y="351.13104"
+       x="735.90442"
+       y="491.13104"
        id="text4708-4-9"
        sodipodi:linespacing="0.99999998%"><tspan
          sodipodi:role="line"
          id="tspan4710-9-4"
-         x="407.90439"
-         y="351.13104">RNA (transcript)</tspan></text>
+         x="735.90442"
+         y="491.13104">RNA (transcript)</tspan></text>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:9.80000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 608.42014,-449.64083 c 72.94077,0 72.94077,0 72.94077,0 l 0,442.0210402 -70.02314,0 2.91763,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:8.44792461;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 649.54482,-449.21929 c 33.29,0 33.29,0 33.29,0 l 0,719.69331 -31.95839,0 1.3316,0"
        id="path5893"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:80px;line-height:0.99999998%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="703.94836"
-       y="-199.05406"
+       y="-81.243118"
        id="text5895"
        sodipodi:linespacing="0.99999998%"><tspan
          sodipodi:role="line"
          id="tspan5897"
          x="703.94836"
-         y="-199.05406">Transcription</tspan></text>
+         y="-81.243118">Transcription</tspan></text>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10.99281693;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 739.07083,110.96143 c 0,-72.077085 0,-72.077085 0,-72.077085 l 562.83627,0 0,69.194005 0,-2.88308"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:7.35562563;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1017.7922,294.83156 c 0,-32.12548 0,-32.12548 0,-32.12548 l 565.3935,0 0,30.84047 0,-1.28502"
        id="path5893-6"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:80px;line-height:0.99999998%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="801.86078"
-       y="18.87396"
+       x="1081.8608"
+       y="218.87398"
        id="text5895-9"
        sodipodi:linespacing="0.99999998%"><tspan
          sodipodi:role="line"
          id="tspan5897-2"
-         x="801.86078"
-         y="18.87396">Translation</tspan></text>
+         x="1081.8608"
+         y="218.87398">Translation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:80px;line-height:0.99999998%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="419.92285"
+       y="181.25493"
+       id="text4708-40-3"
+       sodipodi:linespacing="0.99999998%"><tspan
+         sodipodi:role="line"
+         id="tspan4710-5-6"
+         x="419.92285"
+         y="181.25493">DNA</tspan></text>
   </g>
   <metadata
      id="metadata4227">
