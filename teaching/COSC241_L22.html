@@ -35,7 +35,7 @@
 	  <img data-src="../talks/images/otago_university_logo.svg" width=30%>
 	</h4>
 	<br>
-	<font size="5">17 May 2018</font>
+	<font size="5">17 and 21 May 2018</font>
 </section>
 
 <section>
@@ -47,13 +47,13 @@
 	    <ul><a href="http://lab.gavruskin.com/teaching/COSC241_L22">http://lab.gavruskin.com/teaching/COSC241_L22</a></ul><br>
 	</ul>
 
-	<h3 class="fragment" data-fragment-index="1">
+	<h3>
 	  Outline
 	</h3>
-	<ol class="fragment" data-fragment-index="1">
+	<ol>
 	  <li> <a href="#/data-science">What is data science?</a>
 	  <li> <a href="#/molecular-biology">What is molecular biology?</a>
-	  <li> <a href="#/how-big-is-big">How big is big? Scalability</a>
+	  <li> <a href="#/how-big-is-big">How big is big</a>? <a href="#/scalability">Scalability</a>
 	  <li> <a href="#/online-algorithms">Online algorithms</a>
 	</ol>
 </section>
@@ -202,14 +202,122 @@
 </script>
 </section>
 
-<section>
+<section id="scalability">
 	<h3>
 	  Scalability<font class="fragment" data-fragment-index="1">: synthetic lethal pairs</font>
 	</h3>
 	<img class="fragment" data-fragment-index="1" data-src="../talks/images/synthetic_lethality_grey.svg">
-	<h3 class="fragment" data-fragment-index="2">
+	<h3 class="fragment" data-fragment-index="1">
 	  How many pairs of genes are there in the human genome?
 	</h3>
+</section>
+
+<section>
+	<h3>
+	  Gene-gene interactions
+	</h3>
+	<img data-src="../talks/images/fitness_shapes_2_loci_BPS_axis.png">
+	<h3>
+	Epistasis
+	</h3>
+	is defined as the deviation from the additive expectation of allelic effects:
+	$$u_{11} = w_{00} + w_{11} - (w_{01} + w_{10})$$
+
+	<aside class="notes">
+	  Mention shapes
+	</aside>
+</section>
+
+<section>
+	<h3>Understanding three-way interactions</h3>
+
+	<h4>
+	<p class="fragment" data-fragment-index="1">
+	Marginal epistasis?
+	</p>
+	</h4>
+	<p class="fragment" data-fragment-index="1">
+	$\small u_{\color{blue}{0}11} = w_{\color{blue}{0}00} + w_{\color{blue}{1}00} + w_{\color{blue}{0}11} + w_{\color{blue}{1}11} − (w_{\color{blue}{0}01} + w_{\color{blue}{1}01}) − (w_{\color{blue}{0}10} + w_{\color{blue}{1}10})$
+	</p>
+
+	<h4>
+	<p class="fragment" data-fragment-index="2">
+	Total three-way interaction?
+	</p>
+	</h4>
+	 <p class="fragment" data-fragment-index="2">
+	$\small u_{111} = w_{000} + w_{011} + w_{101} + w_{110} - (w_{001} + w_{010} + w_{100} + w_{111})$
+	</p>
+
+	<h4>
+	<p class="fragment" data-fragment-index="3">
+	Conditional epistasis?
+	<p>
+	</h4>
+	<p class="fragment" data-fragment-index="3">
+	$\small e = w_{\color{blue}{0}00} − w_{\color{blue}{0}01} − w_{\color{blue}{0}10} + w_{\color{blue}{0}11}$
+	</p>
+</section>
+
+<section>
+	<h4>What if no (credible) fitness measurements are available?</h4>
+	<img data-src="../talks/images/disc_diffusion.png"><br>
+	<font size="2">Image: <a href="https://en.wikipedia.org/wiki/Agar_diffusion_test">Wikipedia</a></font>
+</section>
+
+<section>
+	<h4>Mutation fitness graph</h4>
+	<img class="stretch" data-src="../talks/images/tem.svg">
+	<br>
+	<font size="3">Ogbunugafor et al. <i>Malar. J.</i> 2016</font>
+	</p>
+</section>
+
+<section>
+	<h4>Rank orders. The simplest case.</h4>
+	$\small u_{11} = w_{00} + w_{11} - (w_{01} + w_{10})$
+	<img class="stretch" data-src="../talks/images/all_24_rankings_two_loci.svg">
+</section>
+
+<section>
+	<h3>Exercise: Dyck word algorithm</h3>
+	<p>
+	$$
+	  \begin{align}
+	    \small u_{011} =~
+	    & w_{000} + w_{100} + w_{011} + w_{111} − \\
+	    & w_{001} - w_{101} − w_{010} - w_{110}
+	  \end{align}
+	$$
+	</p>
+
+	<p>
+	$$
+	  w_{111} > w_{011} > w_{101} > w_{010} > w_{000} > w_{110} > w_{100} > w_{001}
+	$$
+	</p>
+	<p class="fragment" data-fragment-index="1">
+	$$
+	  w_{111} > w_{011} > w_{100} > w_{000} > w_{001} > w_{101} > w_{010} > w_{110}
+	$$
+	</p>
+	<p class="fragment" data-fragment-index="2">
+	  A way to quantify uncertainties!
+	</p>
+</section>
+
+<section data-markdown>
+<script type="text/template">
+	## Numbers at a glance
+	|    Loci | Imply epistasis |       Number of orders | Fraction |
+	|:-------:|:---------------:|:----------------------:|:--------:|
+	|    2    |      16         |          24            |   2/3    |
+	|    3    |      16,128     |          40,320        |   2/5    |
+	|    4    |4,649,508,864,000|  20,922,789,890,000    |   2/9    |
+	<p class="fragment" data-fragment-index="1">
+	  Are fitness landscapes uniformly distributed?
+	</p>
+</script>
 </section>
 
 <section id="online-algorithms">
