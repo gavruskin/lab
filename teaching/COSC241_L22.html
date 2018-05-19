@@ -51,8 +51,8 @@
 	  Outline
 	</h3>
 	<ol>
-	  <li> <a href="#/data-science">What is data science?</a>
-	  <li> <a href="#/molecular-biology">What is molecular biology?</a>
+	  <li> <a href="#/data-science">What is data science</a>?
+	  <li> <a href="#/molecular-biology">What is molecular biology</a>?
 	  <li> <a href="#/how-big-is-big">How big is big</a>? <a href="#/scalability">Scalability</a>
 	  <li> <a href="#/online-algorithms">Online algorithms</a>
 	</ol>
@@ -273,10 +273,14 @@
 	</p>
 </section>
 
-<section>
+<section id="rank-orders">
 	<h4>Rank orders. The simplest case.</h4>
-	$\small u_{11} = w_{00} + w_{11} - (w_{01} + w_{10})$
+	$\small u_{11} = w_{00} + w_{11} - (w_{01} + w_{10})$<br>
 	<img class="stretch" data-src="../talks/images/all_24_rankings_two_loci.svg">
+
+	<aside class="notes">
+	  Ask what colour means.
+	</aside>
 </section>
 
 <section>
@@ -304,20 +308,60 @@
 	<p class="fragment" data-fragment-index="2">
 	  A way to quantify uncertainties!
 	</p>
+	<p style="font-size:10pt">
+	  Crona, Gavryushkin, Greene, and Beerenwinkel. Inferring genetic interactions from comparative fitness data. <i>eLife,</i> 2017.
+	</p>
 </section>
 
 <section data-markdown>
 <script type="text/template">
-	## Numbers at a glance
+	### Numbers at a glance
 	|    Loci | Imply epistasis |       Number of orders | Fraction |
 	|:-------:|:---------------:|:----------------------:|:--------:|
 	|    2    |      16         |          24            |   2/3    |
 	|    3    |      16,128     |          40,320        |   2/5    |
 	|    4    |4,649,508,864,000|  20,922,789,890,000    |   2/9    |
-	<p class="fragment" data-fragment-index="1">
-	  Are fitness landscapes uniformly distributed?
-	</p>
 </script>
+</section>
+
+<section>
+	<h4>Connection between rank orders and mutation graphs</h4>
+	<img class=stretch data-src="../talks/images/all_total_extensions_of_p_o.svg">
+	<p class="fragment" data-fragment-index="1">
+	  <b>Theorem.</b> A partial order (e.g. fitness graph) implies epistasis if and only if all linear extensions compatible with the partial order do.
+	</p>
+</section>
+
+<section data-transition="slide-in fade-out" id="mutation-graph">
+	<h4>Mutation graph</h4>
+	<img class=stretch data-src="../talks/images/tem_for_Niko.svg">
+
+	<aside class="notes">
+	  Example of data science. A modern one :)
+	</aside>
+</section>
+
+<section data-transition="fade-in fade-out">
+	<h4>Mutation graph</h4>
+	<img class=stretch data-src="../talks/images/tem_highlight_for_Niko.svg">
+</section>
+
+<section data-transition="fade-in slide-out">
+	<h4>Mutation graph</h4>
+	<img class=stretch data-src="../talks/images/tem_highlight_shaded.svg">
+</section>
+
+<section>
+	<h4>Mutation graph</h4>
+	<img class=stretch data-src="../talks/images/tem_order.svg">
+</section>
+
+<section>
+	<h4>Mutation graph</h4>
+	<img class=stretch data-src="../talks/images/tem_order_extension.svg"><br>
+	<p style="font-size:10pt">
+	  Lienkaemper, Lamberti, Drain, Beerenwinkel, and Gavryushkin. The geometry of partial fitness orders and an efficient method for detecting genetic interactions. <i>Journal of Mathematical Biology,</i> 2018.
+	</p>
 </section>
 
 <section id="online-algorithms">
@@ -378,6 +422,31 @@
 <section data-transition="fade-in slide-out">
 	<h3>Online algorithms</h3>
 	<img class="stretch" data-src="../talks/images/Coffee_online_5.svg" width="100%">
+</section>
+
+<section>
+	<h3>Homework:</h3>
+	<p style="font-size=16pm">
+	  Find an efficient online algorithm to detect genetic interactions from
+	<ul>
+	  <li> <a href="#/rank-orders">rank orders of genotypes</a>
+	  <li> <a href="#/mutation-graph">partial orders of genotypes</a>
+	</ul>
+	</p>
+</section>
+
+<section data-transition="fade-in" data-autoslide="2000">
+        <h4>Acknowledgements</h4>
+        <img width="50%" data-src="../talks/images/funding_ETH_RDF.svg"><br>
+	Thank you for your attention
+	<br>
+	<p class="fragment slide-in" data-autoslide="2000">
+	  and <a href="https://lab.gavruskin.com">stay tuned</a>
+	</p>
+
+	<aside class="notes">
+	   I'm hiring!
+	</aside>
 </section>
 
 </div>
