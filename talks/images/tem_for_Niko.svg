@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,12 +40,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1200"
+     inkscape:window-height="1080"
      id="namedview3930"
      showgrid="false"
-     inkscape:zoom="0.98315315"
-     inkscape:cx="128.70124"
-     inkscape:cy="245.74219"
+     inkscape:zoom="1.3903885"
+     inkscape:cx="390.69266"
+     inkscape:cy="227.53425"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -1805,229 +1805,16 @@
          height="100%"
          style="fill:#000000" />
     </g>
-    <g
-       style="fill:#000000;fill-opacity:1"
-       id="g3870">
-      <use
-         xlink:href="#glyph0-7"
-         x="188.567"
-         y="14.349"
-         id="use3872"
-         width="100%"
-         height="100%"
-         style="fill:#000000" />
-      <use
-         xlink:href="#glyph0-15"
-         x="194.80501"
-         y="14.349"
-         id="use3874"
-         width="100%"
-         height="100%"
-         style="fill:#000000" />
-      <use
-         xlink:href="#glyph0-16"
-         x="199.96237"
-         y="14.349"
-         id="use3876"
-         width="100%"
-         height="100%"
-         style="fill:#000000" />
-      <use
-         xlink:href="#glyph0-17"
-         x="209.43819"
-         y="14.349"
-         id="use3878"
-         width="100%"
-         height="100%"
-         style="fill:#000000" />
-      <use
-         xlink:href="#glyph0-18"
-         x="217.83543"
-         y="14.349"
-         id="use3880"
-         width="100%"
-         height="100%"
-         style="fill:#000000" />
-      <use
-         xlink:href="#glyph0-16"
-         x="225.15202"
-         y="14.349"
-         id="use3882"
-         width="100%"
-         height="100%"
-         style="fill:#000000" />
-      <use
-         xlink:href="#glyph0-19"
-         x="234.62784"
-         y="14.349"
-         id="use3884"
-         width="100%"
-         height="100%"
-         style="fill:#000000" />
-    </g>
-    <g
-       style="fill:#000000;fill-opacity:1"
-       id="g3886">
-      <use
-         xlink:href="#glyph0-16"
-         x="256.82144"
-         y="14.349"
-         id="use3888"
-         width="100%"
-         height="100%"
-         style="fill:#000000" />
-      <use
-         xlink:href="#glyph0-20"
-         x="266.29727"
-         y="14.349"
-         id="use3890"
-         width="100%"
-         height="100%"
-         style="fill:#000000" />
-    </g>
-    <g
-       style="fill:#000000;fill-opacity:1"
-       id="g3892">
-      <use
-         xlink:href="#glyph0-18"
-         x="276.3165"
-         y="14.349"
-         id="use3894"
-         width="100%"
-         height="100%"
-         style="fill:#000000" />
-      <use
-         xlink:href="#glyph0-21"
-         x="283.63309"
-         y="14.349"
-         id="use3896"
-         width="100%"
-         height="100%"
-         style="fill:#000000" />
-      <use
-         xlink:href="#glyph0-22"
-         x="288.79047"
-         y="14.349"
-         id="use3898"
-         width="100%"
-         height="100%"
-         style="fill:#000000" />
-      <use
-         xlink:href="#glyph0-21"
-         x="299.34692"
-         y="14.349"
-         id="use3900"
-         width="100%"
-         height="100%"
-         style="fill:#000000" />
-      <use
-         xlink:href="#glyph0-23"
-         x="304.5043"
-         y="14.349"
-         id="use3902"
-         width="100%"
-         height="100%"
-         style="fill:#000000" />
-      <use
-         xlink:href="#glyph0-18"
-         x="313.9801"
-         y="14.349"
-         id="use3904"
-         width="100%"
-         height="100%"
-         style="fill:#000000" />
-      <use
-         xlink:href="#glyph0-21"
-         x="321.29669"
-         y="14.349"
-         id="use3906"
-         width="100%"
-         height="100%"
-         style="fill:#000000" />
-      <use
-         xlink:href="#glyph0-17"
-         x="326.45407"
-         y="14.349"
-         id="use3908"
-         width="100%"
-         height="100%"
-         style="fill:#000000" />
-    </g>
-    <g
-       style="fill:#000000;fill-opacity:1"
-       id="g3910">
-      <use
-         xlink:href="#glyph0-24"
-         x="341.09137"
-         y="14.349"
-         id="use3912"
-         width="100%"
-         height="100%"
-         style="fill:#000000" />
-      <use
-         xlink:href="#glyph0-25"
-         x="348.40796"
-         y="14.349"
-         id="use3914"
-         width="100%"
-         height="100%"
-         style="fill:#000000" />
-      <use
-         xlink:href="#glyph0-26"
-         x="356.80521"
-         y="14.349"
-         id="use3916"
-         width="100%"
-         height="100%"
-         style="fill:#000000" />
-      <use
-         xlink:href="#glyph0-21"
-         x="364.23132"
-         y="14.349"
-         id="use3918"
-         width="100%"
-         height="100%"
-         style="fill:#000000" />
-      <use
-         xlink:href="#glyph0-18"
-         x="369.38867"
-         y="14.349"
-         id="use3920"
-         width="100%"
-         height="100%"
-         style="fill:#000000" />
-      <use
-         xlink:href="#glyph0-25"
-         x="376.70526"
-         y="14.349"
-         id="use3922"
-         width="100%"
-         height="100%"
-         style="fill:#000000" />
-      <use
-         xlink:href="#glyph0-20"
-         x="385.10251"
-         y="14.349"
-         id="use3924"
-         width="100%"
-         height="100%"
-         style="fill:#000000" />
-      <use
-         xlink:href="#glyph0-17"
-         x="395.65897"
-         y="14.349"
-         id="use3926"
-         width="100%"
-         height="100%"
-         style="fill:#000000" />
-      <use
-         xlink:href="#glyph0-25"
-         x="404.05621"
-         y="14.349"
-         id="use3928"
-         width="100%"
-         height="100%"
-         style="fill:#000000" />
-    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.19480133px;line-height:0.99999998%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="190.14232"
+       y="15.105216"
+       id="text6660"
+       sodipodi:linespacing="0.99999998%"><tspan
+         sodipodi:role="line"
+         id="tspan6662"
+         x="190.14232"
+         y="15.105216">-lactam antibiotic resistance</tspan></text>
   </g>
 </svg>
