@@ -7,19 +7,29 @@ title: People
 
 [Alex Gavryushkin](/alex/)
 
+
 ### Postdocs
 
 [You!](/opportunities/)
 
+
 ### PhD students
 
-[You!](/opportunities/)
+- Lena Collienne (Online algorithms in phylogenetics)
+- [You!](/opportunities/)
+
 
 ### Masters students
 
-- Lena Collienne (University of Greifswald)
-- [You!](/opportunities/)
+[You!](/opportunities/)
+
 
 ### Project students
 
 - Kieran Elmes
+- Four more students will join the lab this summer
+
+
+### Alumni
+
+-  [Edwardo Reynolds](https://nz.linkedin.com/in/edwardo-reynolds) (currently PhD student at Massey)
