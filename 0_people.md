@@ -15,7 +15,7 @@ title: People
 
 ### PhD students
 
-- Lena Collienne (Online algorithms in phylogenetics)
+- Lena Collienne (Online algorithms in phylogenetics, co-supervised by [David Bryant](http://www.maths.otago.ac.nz/~dbryant/))
 - [You!](/opportunities/)
 
 
