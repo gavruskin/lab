@@ -26,10 +26,11 @@ title: People
 
 ### Project students
 
-- Kieran Elmes
-- Four more students will join the lab this summer
+- Kieran Elmes (Ranked phylogenetic trees)
+- Tom Hanson (Tumour evolution)
+- Anna Redmond (Fitness landscapes, co-supervised by [Zhiyi Huang](https://www.otago.ac.nz/computer-science/people/otago675737.html))
 
 
 ### Alumni
 
--  [Edwardo Reynolds](https://nz.linkedin.com/in/edwardo-reynolds) (currently PhD student at Massey)
+-  [Edwardo Reynolds](https://nz.linkedin.com/in/edwardo-reynolds) (project student, currently PhD student at Massey)
